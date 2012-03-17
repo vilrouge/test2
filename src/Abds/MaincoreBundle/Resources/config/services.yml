@@ -1,0 +1,7 @@
+parameters:
+#    abds_maincore.example.class: Abds\MaincoreBundle\Example
+
+services:
+#    abds_maincore.example:
+#        class: %abds_maincore.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]
